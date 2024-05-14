@@ -3,13 +3,16 @@ Question Type : Multiple Choice
 Max Answers : 2
 
 ## Question
-What roles do front-end and back-end developers play in web development?:
+What is the purpose of a pull request in GitHub?:
 
 ## Options
-Option 1: Front-end developers focus on user interface design
-Option 2: Back-end developers manage server-side logic
-Option 3: Front-end developers handle database management
-Option 4: Back-end developers optimize website performance
+Option 1: To request changes to a repository
+
+Option 2: To review changes made in a branch before merging them into another branch
+
+Option 3: To undo changes made in a commit
+
+Option 4: To create a new branch from an existing one
 
 ## Answers
 Option 1 : 1
