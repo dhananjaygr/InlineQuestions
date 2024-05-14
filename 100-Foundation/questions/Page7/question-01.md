@@ -2,25 +2,25 @@
 Question Type : Single Choice
 
 ## Question
-:
+What is the purpose of the "Wiz IaC Scanner" in the CI/CD pipeline?:
 
 ## Options
-Option 1: Protocol
+Option 1: To check for vulnerabilities in the code
 
-Option 2: Algorithm
+Option 2: To review changes made in a branch before merging them into another branch
 
-Option 3: Syntax
+Option 3: To scan for Infrastructure as Code misconfigurations
 
-Option 4: Hardware
+Option 4:  To revert changes made in a commit
 
 ## Answers
-Option 1 : 1
+Option 3 : 1
 
 ## Correct Answer Feedback
-Option 1 is correct answer
+Option 3 is correct answer
 
 ## Incorrect Answer Feedback
-Selected ## Options is not correct Option 1 is correct answer
+Selected ## Options is not correct Option 3 is correct answer
 
 ## Tags
 tag1
