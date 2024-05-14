@@ -59,7 +59,7 @@ Once the rule is defined and the bucket is rescanned, we will see some findings 
 1. Click **Create rule** to save the rule in the Wiz tenant.
 
 Please answer the following question
-<question source="https://raw.githubusercontent.com/dhananjaygr/Demosecurityinwiz/Dhananjay/100-Foundation/questions/Page3/question-01.md" />
+<question source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page2/question-01.md" />
 
 ## Task 2. Scan the bucket to test your finding
 
@@ -90,5 +90,5 @@ Please answer the following question
 </div>
 
 Please answer the following question
-<question source="https://raw.githubusercontent.com/dhananjaygr/Demosecurityinwiz/Dhananjay/100-Foundation/questions/Page3/question-02.md" />
+<question source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page2/question-02.md" />
 
