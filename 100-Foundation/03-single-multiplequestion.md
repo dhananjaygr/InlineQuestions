@@ -84,6 +84,8 @@ Once the rules are defined and the bucket is rescanned, we will see some finding
 * Set the Minimum unique matches to **1**.
 * From the Masking list, select **Partial Mask**.
 
+Please answer the following question
+<question source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page3/question-01.md" />
 
 ## Task 2. Scan the bucket to test your finding
 
@@ -122,7 +124,6 @@ Once the rules are defined and the bucket is rescanned, we will see some finding
 
 </div>
 
-Please provide feedback about the lab guide
-
-<grouped-questions source="https://raw.githubusercontent.com/dhananjaygr/Demosecurityinwiz/Dhananjay/100-Foundation/questions/Page4/page4-metadata.md" />
+Please answer the following question
+<question source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page3/question-02.md" />
 
