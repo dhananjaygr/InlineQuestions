@@ -23,4 +23,4 @@ They also have a process for identifying any in progress patent applications. Th
 </div>
 
 Please answer the following question
-<question source="https://raw.githubusercontent.com/dhananjaygr/Demosecurityinwiz/Dhananjay/100-Foundation/questions/Page2/question-01.md" />
+<question source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page1/question-01.md" /> 
