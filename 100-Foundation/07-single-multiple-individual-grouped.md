@@ -38,6 +38,14 @@
 Please answer the following question
 <question source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page7/question-01.md" />
 
+## Addressing Code Misconfigurations and Security Concerns
+
+1. Upon encountering the findings from the "Wiz IaC Scanner," the author promptly addressed the misconfiguration identified in the Dockerfile. By updating the Dockerfile to meet the required specifications, the author aimed to ensure compliance with best practices and mitigate potential vulnerabilities in the Infrastructure as Code.
+
+2. This proactive approach demonstrates a commitment to maintaining code quality and security throughout the development process. However, the author chose to overlook the findings flagged by the "Wiz Secret Scanner" during the pull request review, opting to proceed with merging despite the presence of sensitive credentials.
+
+3. This decision raises questions about the trade-offs between speed and security in the CI/CD pipeline.
+
 Please answer the following question
 <question source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page7/question-02.md" />
 
