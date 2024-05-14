@@ -5,7 +5,7 @@ Max Answers : 2
 
 
 ## Question
-What type of data does the metadata classifier rule focus on?
+What type of data does the metadata classifier rule focus on?:
 
 ## Options
 Option 1: Personal Health Information (PHI)
