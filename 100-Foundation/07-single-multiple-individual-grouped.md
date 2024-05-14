@@ -35,6 +35,11 @@
          <img width="750" height="323" img src="./img/cicd_scan3.png"/>
          </p> 
 
+Please answer the following question
+<question source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page7/question-01.md" />
+
+Please answer the following question
+<question source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page7/question-02.md" />
 
 ## Address code commit issues
 
@@ -143,3 +148,7 @@
       </p> 
 
 </div>
+
+
+Please provide feedback about the lab guide
+<grouped-questions source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page7/page7-metadata.md" />
