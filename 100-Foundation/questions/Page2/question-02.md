@@ -1,6 +1,8 @@
 ## Metadata
 Question Type : Multiple Choice
+
 Max Answers : 2
+
 
 ## Question
 What type of data does the metadata classifier rule focus on?
