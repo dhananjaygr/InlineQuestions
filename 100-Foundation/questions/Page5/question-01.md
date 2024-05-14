@@ -16,13 +16,13 @@ Option 4: To revert changes made in a commit
 
 ## Answers
 Option 1 : 1
-Option 2 : 1
+Option 3 : 1
 
 ## Correct Answer Feedback
-Option 1, 2 is correct answer
+Option 1, 3 is correct answer
 
 ## Incorrect Answer Feedback
-Selected ## Options is not correct Option 1, 2 is correct answer
+Selected ## Options is not correct Option 1, 3 is correct answer
 
 ## Tags
 tag1
