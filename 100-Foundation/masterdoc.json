@@ -13,7 +13,7 @@
         "UnlockingRules": [
           {
             "UnlockDependency": "Questions",
-            "DependentQuestions": [],
+            "DependentQuestions": [ "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page1/question-01.md" ],
             "UnlockCriteria": "Answered"
           }
         ]
