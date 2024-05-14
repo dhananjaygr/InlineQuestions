@@ -2,7 +2,7 @@
 Question Type : Single Choice
 
 ## Question
-Which of the following steps is NOT part of creating a data classification rule in the Wiz portal?
+Which of the following steps is NOT part of creating a data classification rule in the Wiz portal?:
 
 ## Options
 Option 1: Selecting the data type
