@@ -10,7 +10,7 @@ In this task, we will simulate part of a CI/CD pipeline where developers commit 
 1. In your newly create GitHub repository, click on **Add file > Create new file**
 
    <p align="left">
-      <img width="650" height="322" img src="pics/create_file.png"/>
+      <img width="650" height="322" img src="./img/create_file.png"/>
       </p> 
 
 1. Copy the contents from the block below and paste in the new file. Name it `Dockerfile`
@@ -34,7 +34,7 @@ In this task, we will simulate part of a CI/CD pipeline where developers commit 
 1. In the *Proposed changes* pop-up select **Create a new branch..** and give it the name `task1`. 
 
    <p align="left">
-      <img width="350" height="390" img src="pics/propose_changes.png"/>
+      <img width="350" height="390" img src="./img/propose_changes.png"/>
       </p> 
 
 1. Click on **Propose changes**
@@ -42,7 +42,7 @@ In this task, we will simulate part of a CI/CD pipeline where developers commit 
 1. Add a new file to the same branch by selecting **< > Code**, then changing the branch to `task1`.
 
    <p align="left">
-      <img width="350" height="353" img src="pics/switch_branch.png"/>
+      <img width="350" height="353" img src="./img/switch_branch.png"/>
       </p> 
 
 1. Once in the `task1` branch, click on **Add file > Create new file**.
@@ -56,13 +56,13 @@ In this task, we will simulate part of a CI/CD pipeline where developers commit 
 1. On the *Open a pull request* page, click on **Create pull request**.
 
    <p align="left">
-      <img width="500" height="376" img src="pics/create_pr.png"/>
+      <img width="500" height="376" img src="./img/create_pr.png"/>
       </p> 
 
 1. In the Pull request commit conversation page, you will see the Wiz checks in action, and as result you should see the `Wiz IaC Scanner` and `Wiz Secret Scanner` failed.
 
    <p align="left">
-      <img width="650" height="274" img src="pics/check_fail.png"/>
+      <img width="650" height="274" img src="./img/check_fail.png"/>
       </p> 
 
 Before addressing the issues found by the scans, lets look into what Wiz collects and shows in the portal.
