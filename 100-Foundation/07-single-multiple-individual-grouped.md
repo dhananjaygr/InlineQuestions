@@ -5,7 +5,7 @@
 1. Find your triggered scan. On the `Repository` column, look for your <github_user>/<repo_name>. Or you can use the *Repository* filter.
 
     <p align="left">
-      <img width="680" height="176" img src="pics/repo_scans.png"/>
+      <img width="680" height="176" img src="./img/repo_scans.png"/>
       </p> 
 
 1. Open the details of your scan, lets look into some of the information provided.
@@ -15,7 +15,7 @@
     - **Properties** shows the scan duration and time, and most importantly, what scan policies are enabled at the connector level.
 
         <p align="left">
-          <img width="750" height="573" img src="pics/cicd_scan1.png"/>
+          <img width="750" height="573" img src="./img/cicd_scan1.png"/>
           </p> 
 
 1. Now lets look at the details of the **Pull Request Properties** section:
@@ -23,7 +23,7 @@
     - This section shows who committed the code (**Author**), the branch name (**Title**), the base and committed hashes (**Base Commit Ref** and **Head Commit Ref**), number of commits in the PR, number of files added, and the PR url.
 
         <p align="left">
-          <img width="750" height="161" img src="pics/cicd_scan2.png"/>
+          <img width="750" height="161" img src="./img/cicd_scan2.png"/>
           </p> 
 
 
@@ -32,7 +32,7 @@
     - We will address the problems in the next step, but you can see Wiz found 4 configuration findings, with one being of High severity.
 
        <p align="left">
-         <img width="750" height="323" img src="pics/cicd_scan3.png"/>
+         <img width="750" height="323" img src="./img/cicd_scan3.png"/>
          </p> 
 
 
@@ -41,7 +41,7 @@
 1. Back at your Github's PR page, within the check step, find the `Wiz IaC Scanner` line and click on **Details**.
 
    <p align="left">
-      <img width="650" height="274" img src="pics/check_fail.png"/>
+      <img width="650" height="274" img src="./img/check_fail.png"/>
       </p> 
 
 1. Here you will see the High severity finding within the `Dockerfile` file. 
@@ -49,19 +49,19 @@
     `The 'Dockerfile' should contain the 'USER' instruction`
 
     <p align="left">
-      <img width="650" height="328" img src="pics/iac_scan_detail.png"/>
+      <img width="650" height="328" img src="./img/iac_scan_detail.png"/>
       </p> 
 
 1. Find the link to `Wiz Secret Scanner` and click on it.
 
     <p align="left">
-      <img width="350" height="167" img src="pics/wiz_secret.png"/>
+      <img width="350" height="167" img src="./img/wiz_secret.png"/>
       </p> 
 
 1. Here you will see the Secret finding, where we committed an AWS Access/Secret Key pair within our code.
 
     <p align="left">
-      <img width="650" height="306" img src="pics/secret_scan_detail.png"/>
+      <img width="650" height="306" img src="./img/secret_scan_detail.png"/>
       </p> 
 
     In a production scenario, you would not want to add Access/Secret Keys inside your code. This is extremely dangerous, and can lead to compromise and priviledge escalation. There are alternatives like using an AWS role attached to the instances running the containers/application. 
@@ -73,7 +73,7 @@
 1. Change your branch to `task1`.
 
     <p align="left">
-      <img width="400" height="405" img src="pics/switch_branch.png"/>
+      <img width="400" height="405" img src="./img/switch_branch.png"/>
       </p> 
 
 1. Open the `Dockerfile` file.
@@ -105,13 +105,13 @@
 1. In the conversation tab, scroll down to the test step. You should see that now the `Wiz IaC Scanner` is in *Neutral* state.
 
     <p align="left">
-      <img width="650" height="271" img src="pics/check_neutral.png"/>
+      <img width="650" height="271" img src="./img/check_neutral.png"/>
       </p> 
 
 1. Click on details, you will see that there are still some checks with severity 'None' (informational). Those are non-blocking and we are OK to continue.
 
     <p align="left">
-      <img width="650" height="349" img src="pics/neutral_detail.png"/>
+      <img width="650" height="349" img src="./img/neutral_detail.png"/>
       </p> 
 
 1. Select `Wiz Secret Scanner`, you will still see the check failed, but as discussed earlier, we will ignore the error in this exercise.
@@ -121,7 +121,7 @@
 1. Click on **Merge without waiting for requirements to be met (bypass branch protections)**, then click on **Merge pull request**.
 
     <p align="left">
-      <img width="650" height="272" img src="pics/merge_pr.png"/>
+      <img width="650" height="272" img src="./img/merge_pr.png"/>
       </p> 
 
 1. Click on **Confirm merge**.
@@ -129,7 +129,7 @@
 1. Congratulations, your Pull Request is merged! The code is now in the `main` branch, which in our case means "production". 
 
     <p align="left">
-      <img width="650" height="72" img src="pics/pr_merged.png"/>
+      <img width="650" height="72" img src="./img/pr_merged.png"/>
       </p> 
 
 1. Click on **Delete branch** to delete your merged `task1` branch.
