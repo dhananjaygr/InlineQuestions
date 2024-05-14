@@ -24,7 +24,7 @@
         "UnlockingRules": [
           {
             "UnlockDependency": "Questions",
-            "DependentQuestions": [],
+            "DependentQuestions": [ "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page2/question-01.md", "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page2/question-02.md" ],
             "UnlockCriteria": "AnsweredCorrectly"
           }
         ]
