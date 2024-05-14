@@ -3,29 +3,29 @@ Question Type : Multiple Choice
 Max Answers : 2
 
 ## Question
-:
+What action did the author take in response to the "Wiz IaC Scanner" finding regarding the Dockerfile?:
 
 ## Options
-Option 1: Securing data transmission over public networks
+Option 1: Ignored the finding and proceeded with merging
 
-Option 2: Masking the user's physical location
+Option 2: Addressed the misconfiguration in the Dockerfile
 
-Option 3: Encrypting internet traffic
+Option 3: Reverted the changes made in the commit
 
-Option 4: Limiting bandwidth usage
+Option 4: Created a new branch to isolate the issue
 
-Option 5: Limiting bandwidth traffic
+Option 5: Ignored the finding 
 
 
 ## Answers
 Option 1 : 1
-Option 3 : 1
+Option 2 : 1
 
 ## Correct Answer Feedback
-Option 1, 3 is correct answer
+Option 1, 2 is correct answer
 
 ## Incorrect Answer Feedback
-Selected ## Options is not correct Option 1, 3 is correct answer
+Selected ## Options is not correct Option 1, 2 is correct answer
 
 ## Tags
 tag1
