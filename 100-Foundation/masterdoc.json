@@ -58,7 +58,7 @@
         "UnlockingRules": [
           {
             "UnlockDependency": "GroupedQuestions",
-            "DependentQuestions": [],
+            "DependentQuestions": [ "https://github.com/dhananjaygr/InlineQuestions/blob/main/100-Foundation/questions/Page5/page5-metadata.md" ],
             "UnlockCriteria": "AnsweredCorrectly"
           }
         ]
