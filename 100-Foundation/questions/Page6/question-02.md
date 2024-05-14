@@ -2,22 +2,25 @@
 Question Type : Single Choice
 
 ## Question
-Which Indian city is famous for the Taj Mahal?:
+What does the "Wiz IaC Scanner" check for during the CI/CD process?:
 
 ## Options
-Option 1: Delhi
-Option 2: Jaipur
-Option 3: Agra
-Option 4: Lucknow
+Option 1: Code syntax errors
+
+Option 2: Infrastructure as Code misconfigurations
+
+Option 3: Vulnerabilities in the code
+
+Option 4: Secret keys stored in the code
 
 ## Answers
-Option 3 : 1
+Option 2 : 1
 
 ## Correct Answer Feedback
-Option 3 is correct answer
+Option 2 is correct answer
 
 ## Incorrect Answer Feedback
-Selected ## Options is not correct Option 3 is correct answer
+Selected ## Options is not correct Option 2 is correct answer
 
 ## Tags
 tag1
