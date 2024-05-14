@@ -67,3 +67,5 @@ In this task, we will simulate part of a CI/CD pipeline where developers commit 
 
 Before addressing the issues found by the scans, lets look into what Wiz collects and shows in the portal.
 
+Please provide feedback about the lab guide
+<grouped-questions source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page6/page6-metadata.md" />
