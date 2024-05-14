@@ -73,6 +73,17 @@
             "UnlockCriteria": "Answered"
           }
         ]
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/08-last-lab.md",
+        "Order": 8,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "GroupedQuestions",
+            "DependentQuestions": [ "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page7/page7-metadata.md", "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page7/question-01.md" ],
+            "UnlockCriteria": "Answered"
+          }
+        ]
       }
     ]
   }
