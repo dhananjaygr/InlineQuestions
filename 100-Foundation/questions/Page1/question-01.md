@@ -2,7 +2,7 @@
 Question Type : Single Choice
 
 ## Question
-What sensitivity labels are used by the military contractor to tag content?
+What sensitivity labels are used by the military contractor to tag content?:
 
 ## Options
 Option 1: Top Secret, Secret, Unclassified
