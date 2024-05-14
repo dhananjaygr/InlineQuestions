@@ -2,22 +2,25 @@
 Question Type : Single Choice
 
 ## Question
-What are the key benefits of using a virtualization technology in IT infrastructure?:
+What is the purpose of the control defined in the exercise?
 
 ## Options
-Option 1: Resource optimization
-Option 2: Increased hardware utilization
-Option 3: Improved disaster recovery
-Option 4: Enhanced network bandwidth
+Option 1: To identify unstructured data files in a bucket
+
+Option 2: To ensure compliance with data classification labeling requirements
+
+Option 3:  To determine the severity level of data findings in a bucket
+
+Option 4:  To prioritize the scanning of structured data files
 
 ## Answers
-Option 1 : 1
+Option 2 : 1
 
 ## Correct Answer Feedback
-Option 1 is correct answer
+Option 2 is correct answer
 
 ## Incorrect Answer Feedback
-Selected ## Options is not correct Option 1 is correct answer
+Selected ## Options is not correct Option 2 is correct answer
 
 ## Tags
 tag1
