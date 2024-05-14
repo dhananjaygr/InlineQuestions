@@ -2,22 +2,25 @@
 Question Type : Single Choice
 
 ## Question
-What are the key benefits of using a virtualization technology in IT infrastructure?:
+What is the purpose of setting the "Minimum unique matches" field when creating a data classification rule in the Wiz portal?
 
 ## Options
-Option 1: Resource optimization
-Option 2: Increased hardware utilization
-Option 3: Improved disaster recovery
-Option 4: Enhanced network bandwidth
+Option 1: To determine the number of files to be scanned
+
+Option 2: To specify the minimum number of occurrences of the classified data within a single file
+
+Option 3: To control the sensitivity level of the classification rule
+
+Option 4: To prioritize the scanning of certain file types
 
 ## Answers
-Option 1 : 1
+Option 2 : 1
 
 ## Correct Answer Feedback
-Option 1 is correct answer
+Option 2 is correct answer
 
 ## Incorrect Answer Feedback
-Selected ## Options is not correct Option 1 is correct answer
+Selected ## Options is not correct Option 2 is correct answer
 
 ## Tags
 tag1
