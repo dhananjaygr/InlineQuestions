@@ -139,7 +139,7 @@
 1. Open your latest scan, scroll down to the **Contains Configuration Findings** section. Here you will see only the two informational findings which matches the GitHub scan you've seen earlier.
 
     <p align="left">
-      <img width="650" height="123" img src="pics/cc_findings.png"/>
+      <img width="650" height="123" img src="./img/cc_findings.png"/>
       </p> 
 
 </div>
