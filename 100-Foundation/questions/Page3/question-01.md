@@ -1,6 +1,5 @@
 ## Metadata
-Question Type : Multiple Choice
-Max Answers : 3
+Question Type : Single Choice
 
 ## Question
 Which of the following steps is NOT part of creating a data classification rule in the Wiz portal?
