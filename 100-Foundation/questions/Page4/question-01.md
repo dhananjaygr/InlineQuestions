@@ -2,7 +2,7 @@
 Question Type : Single Choice
 
 ## Question
-What is the purpose of setting the "Minimum unique matches" field when creating a data classification rule in the Wiz portal?
+What is the purpose of setting the "Minimum unique matches" field when creating a data classification rule in the Wiz portal?:
 
 ## Options
 Option 1: To determine the number of files to be scanned
