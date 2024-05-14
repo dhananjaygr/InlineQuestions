@@ -1,5 +1,8 @@
 ## Metadata
-Question Type : Single Choice
+Question Type : Multiple Choice
+
+Max Answers : 2
+
 
 ## Question
 Which severity level is assigned to the "Confidential Classification Rule" in the Wiz portal?:
