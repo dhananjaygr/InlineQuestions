@@ -2,7 +2,7 @@
 Question Type : Single Choice
 
 ## Question
-What is the purpose of the control defined in the exercise?
+What is the purpose of the control defined in the exercise?:
 
 ## Options
 Option 1: To identify unstructured data files in a bucket
