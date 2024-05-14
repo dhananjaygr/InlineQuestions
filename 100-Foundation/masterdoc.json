@@ -69,7 +69,7 @@
         "UnlockingRules": [
           {
             "UnlockDependency": "GroupedQuestions",
-            "DependentQuestions": [],
+            "DependentQuestions": [ "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page6/page6-metadata.md" ],
             "UnlockCriteria": "Answered"
           }
         ]
