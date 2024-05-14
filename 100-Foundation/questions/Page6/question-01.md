@@ -2,7 +2,7 @@
 Question Type : Single Choice
 
 ## Question
-What is the purpose of creating a new branch when committing changes to a GitHub repository?
+What is the purpose of creating a new branch when committing changes to a GitHub repository?:
 
 ## Options
 Option 1: To separate different versions of the code
