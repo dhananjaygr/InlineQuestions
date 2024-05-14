@@ -3,13 +3,16 @@ Question Type : Multiple Choice
 Max Answers : 2
 
 ## Question
-What roles do front-end and back-end developers play in web development?:
+In the context of GitHub, what does the term "fork" mean?:
 
 ## Options
-Option 1: Front-end developers focus on user interface design
-Option 2: Back-end developers manage server-side logic
-Option 3: Front-end developers handle database management
-Option 4: Back-end developers optimize website performance
+Option 1: To create a duplicate of a repository under your GitHub account
+
+Option 2: To merge changes from one branch into another
+
+Option 3: To create a new branch from an existing one
+
+Option 4: To revert changes made in a commit
 
 ## Answers
 Option 1 : 1
