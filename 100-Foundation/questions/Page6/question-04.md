@@ -3,24 +3,28 @@ Question Type : Multiple Choice
 Max Answers : 2
 
 ## Question
-What are the benefits of using cloud computing services?:
+Why is it important to address the issues found by the Wiz scanners during the CI/CD process?:
 
 ## Options
-Option 1: Scalability and flexibility
-Option 2: Cost-effectiveness
-Option 3: Improved data security
-Option 4: Reduced need for network connectivity
-Option 5: Cost data security
+Option 1: To increase the number of commits in the repository
+
+Option 2: To enhance the code quality and security
+
+Option 3: To speed up the deployment process
+
+Option 4: To create more branches in the repository
+
+Option 5: To only increase the number of commits
 
 ## Answers
-Option 1 : 1
 Option 2 : 1
+Option 3 : 1
 
 ## Correct Answer Feedback
-Option 1,2 is correct answer
+Option 2,3 is correct answer
 
 ## Incorrect Answer Feedback
-Selected ## Options is not correct Option 1, 2, is correct answer
+Selected ## Options is not correct Option 2,3 is correct answer
 
 ## Tags
 tag1
