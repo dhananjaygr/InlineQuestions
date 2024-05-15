@@ -121,4 +121,4 @@ Your connector is now deployed, proceed to the **Next** page.
 
 Please provide feedback about the lab guide
 
-<grouped-questions source="https://github.com/dhananjaygr/InlineQuestions/blob/main/100-Foundation/questions/Page5/page5-metadata.md" />
+<grouped-questions source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page5/page5-metadata.md" />
