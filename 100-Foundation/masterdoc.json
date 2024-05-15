@@ -58,7 +58,7 @@
               "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page4/page4-metadata.md"
             ],
             "UnlockCriteria": "Score",
-            "UnlockPercentageThreshold": 70
+            "UnlockPercentageThreshold": 50
           }
         ]
       },
