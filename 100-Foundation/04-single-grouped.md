@@ -177,7 +177,7 @@ Once the rules are defined and the bucket is rescanned, we will see some data st
     **Note:** In some cases, issues may take up to 24 hours to appear in the portal. 
 
 Please answer the following question
-<question source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page4/page4-metadata.md" />
+<grouped-questions source="https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page4/page4-metadata.md" />
 
 ### END OF LAB
 
