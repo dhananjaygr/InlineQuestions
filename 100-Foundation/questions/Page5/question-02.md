@@ -3,16 +3,16 @@ Question Type : Multiple Choice
 Max Answers : 2
 
 ## Question
-What is the purpose of a pull request in GitHub?:
+What is the capital of india?:
 
 ## Options
-Option 1: To request changes to a repository
+Option 1: New Delhi
 
-Option 2: To review changes made in a branch before merging them into another branch
+Option 2: Delhi
 
-Option 3: To undo changes made in a commit
+Option 3: Mysore
 
-Option 4: To create a new branch from an existing one
+Option 4: Mumbai
 
 ## Answers
 Option 1 : 1
