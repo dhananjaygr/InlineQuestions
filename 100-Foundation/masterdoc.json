@@ -14,7 +14,7 @@
           {
             "UnlockDependency": "Questions",
             "DependentQuestions": [
-              "./questions/Page1/question-01.md"
+              "../questions/Page1/question-01.md"
             ],
             "UnlockCriteria": "Answered"
           }
