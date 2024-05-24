@@ -30,8 +30,7 @@
               "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page2/question-01.md",
               "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page2/question-02.md"
             ],
-            "UnlockCriteria": "Score",
-            "UnlockPercentageThreshold": 50
+            "UnlockCriteria": "AnsweredCorrectly"
           }
         ]
       },
@@ -59,7 +58,7 @@
               "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page4/page4-metadata.md"
             ],
             "UnlockCriteria": "Score",
-            "UnlockPercentageThreshold": 50
+            "UnlockPercentageThreshold": 70
           }
         ]
       },
@@ -70,7 +69,7 @@
           {
             "UnlockDependency": "GroupedQuestions",
             "DependentQuestions": [
-              "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page5/page5-metadata.md"
+              "https://github.com/dhananjaygr/InlineQuestions/blob/main/100-Foundation/questions/Page5/page5-metadata.md"
             ],
             "UnlockCriteria": "AnsweredCorrectly"
           }
