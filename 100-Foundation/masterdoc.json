@@ -49,16 +49,16 @@
         ]
       },
       {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/05-multiple-question-grouped.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/05-multiple-question-grouped.md",
         "Order": 5,
         "UnlockingRules": [
           {
             "UnlockDependency": "GroupedQuestions",
             "DependentQuestions": [
-              "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page4/page4-metadata.md"
+              "https://raw.githubusercontent.com/dhananjaygr/InlineQuestions/main/100-Foundation/questions/Page4/page4-metadata.md"
             ],
             "UnlockCriteria": "Score",
-            "UnlockPercentageThreshold": 50
+            "UnlockPercentageThreshold": 70
           }
         ]
       },
