@@ -90,5 +90,5 @@ Please answer the following question
 </div>
 
 Please answer the following question
-<question source="./questions/Page2/question-02.md" />
+<question source="../questions/Page2/question-02.md" />
 
