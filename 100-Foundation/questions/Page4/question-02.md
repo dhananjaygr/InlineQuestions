@@ -16,15 +16,5 @@ Option 4: Uploading the file to be classified
 ## Answers
 Option 4 : 1
 
-## Correct Answer Feedback
-Option 4 is correct answer
-
-## Incorrect Answer Feedback
-Selected ## Options is not correct Option 4 is correct answer
-
-## Tags
-tag1
-tag2
-
 ## Number of Retries
-5
+10
