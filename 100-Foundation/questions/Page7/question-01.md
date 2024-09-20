@@ -16,5 +16,8 @@ Option 4:  To revert changes made in a commit
 ## Answers
 Option 3 : 1
 
+## Correct Answer Feedback
+Option 3 is correct answer
+
 ## Number of Retries
 5
