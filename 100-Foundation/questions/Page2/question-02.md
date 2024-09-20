@@ -20,15 +20,5 @@ Option 4: Other
 Option 1 : 1
 Option 2 : 1
 
-## Correct Answer Feedback
-Option 1, 2 is correct answer
-
-## Incorrect Answer Feedback
-Selected ## Options is not correct Option 1, 2 is correct answer
-
-## Tags
-tag1
-tag2
-
 ## Number of Retries
 5
