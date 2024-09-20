@@ -15,16 +15,3 @@ Option 4:  To revert changes made in a commit
 
 ## Answers
 Option 3 : 1
-
-## Correct Answer Feedback
-Option 3 is correct answer
-
-## Incorrect Answer Feedback
-Selected ## Options is not correct Option 3 is correct answer
-
-## Tags
-tag1
-tag2
-
-## Number of Retries
-2
