@@ -18,15 +18,4 @@ Option 4: To address all findings before merging
 Option 2 : 1
 Option 3 : 1
 
-## Correct Answer Feedback
-Option 2, 3 is correct answer
 
-## Incorrect Answer Feedback
-Selected ## Options is not correct Option 2, 3 is correct answer
-
-## Tags
-tag1
-tag2
-
-## Number of Retries
-2
