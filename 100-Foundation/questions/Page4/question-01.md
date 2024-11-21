@@ -27,4 +27,4 @@ tag1
 tag2
 
 ## Number of Retries
-10
+2
